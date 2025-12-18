@@ -1,7 +1,5 @@
 yaml
-
-
-name: Python CI Pipeline
+ name:Python CI Pipeline
 
 on:
   push:
